@@ -320,3 +320,144 @@ A *Proposta de Valor* do projeto visa motivar os moradores de São Paulo a explo
 5. *Tela de Ranking*:
    - Exibe o ranking semanal e ranking fixo, permitindo que o usuário veja quem são os líderes.
    - Os usuários podem clicar no perfil dos líderes para ver suas insígnias e progresso no aplicativo.
+
+
+
+   # <a name="c3"></a> 3. Análise da Proposta de Solução
+
+## <a name="c3.1"></a> 3.1 Funcionalidades Principais
+O aplicativo oferece uma experiência gamificada de exploração turística que inclui:
+- **Mapa Interativo**: Visualização de pontos turísticos com ícones personalizados, com movimentação do personagem do usuário via geolocalização.
+- **Missões Semanais e Mensais**: Conjuntos de missões com pontos acumuláveis, incentivando visitas frequentes.
+- **Sistema de Pontuação e Insígnias**: Usuários coletam pontos ao visitar novos locais e ganham insígnias específicas.
+- **Rankings Dinâmicos**: Classificação semanal e permanente para estimular a competição saudável.
+
+## <a name="c3.2"></a> 3.2 Público-Alvo e Problema Resolvido
+- **Público-Alvo**: Turistas locais, jovens adultos e gamers que buscam experiências interativas e imersivas em ambientes urbanos.
+- **Problema Resolvido**: Falta de motivação e interesse para explorar pontos turísticos locais de maneira inovadora e engajante.
+
+## <a name="c3.3"></a> 3.3 Diferenciais Competitivos
+- **Geolocalização e Gamificação**: Uso de geolocalização para validação de pontos turísticos e recompensas, oferecendo uma experiência semelhante a jogos de realidade aumentada.
+- **Sistema de Missões e Recompensas**: Incentivo contínuo para explorar novos locais através de missões atualizadas e recompensas, mantendo o engajamento do usuário.
+
+
+
+## <a name="c3.4"></a> 3.4 Oceano Vermelho - Mercado Atual
+
+### Concorrentes Diretos e Indiretos
+1. **Google Maps e Guias de Viagem Tradicionais**:
+   - Oferecem recomendações e direções, mas não possuem sistema gamificado ou interativo.
+2. **TripAdvisor**:
+   - Focado em avaliações e recomendações de turistas, mas não utiliza geolocalização para validar visitas.
+3. **Pokémon Go (como referência indireta)**:
+   - Utiliza geolocalização e realidade aumentada, mas o foco é no público gamer e não explora aspectos turísticos.
+
+### Comparação de Funcionalidades
+- **Interatividade**: Concorrentes tradicionais oferecem conteúdo passivo (textos e imagens), sem envolvimento dinâmico do usuário.
+- **Gamificação**: Falta de elementos de gamificação (missões, recompensas) em plataformas de turismo tradicionais.
+- **Validação em Tempo Real**: Ausência de validação em tempo real para atividades e missões turísticas, diferentemente da proposta do aplicativo.
+
+
+## <a name="c3.5"></a> 3.5  Matriz ERAC (Eliminar, Reduzir, Aumentar, Criar)
+
+- **Eliminar**:
+  - Dependência de guias físicos e conteúdo passivo, como textos extensivos e vídeos sem interação.
+- **Reduzir**:
+  - Complexidade de uso, simplificando o onboarding e a navegação entre missões e pontos turísticos.
+- **Aumentar**:
+  - Intensificar o uso de geolocalização para garantir a precisão na coleta de pontos e a interação em tempo real com o ambiente.
+- **Criar**:
+  - Sistema de missões gamificadas com recompensas dinâmicas baseadas em conquistas.
+  - Ranking e insígnias para cada categoria de ponto turístico, incentivando o usuário a explorar diferentes tipos de locais (museus, parques, monumentos).
+
+
+## <a name="c3.6"></a> 3.6  Novo Espaço de Mercado - Oceano Azul
+
+### Público-Alvo Inexplorado
+- **Jovens adultos e gamers**: Pessoas que normalmente não se interessariam em turismo tradicional, mas que são atraídas por experiências interativas e gamificadas.
+- **Turistas locais e moradores da cidade**: Aqueles que buscam redescobrir sua cidade de forma inovadora e lúdica.
+
+### Diferenciais de Valor
+- **Exploração Gamificada**: Transformação de pontos turísticos em missões interativas, criando um ambiente de exploração contínua e premiando o usuário por suas descobertas.
+- **Integração de Geolocalização e Gamificação**: Combinação única que valida a presença do usuário e cria recompensas personalizadas, diferenciando a experiência de guias tradicionais ou aplicativos de turismo passivo.
+
+
+### Benefícios Competitivos
+
+- **Experiência Imersiva**: Uso de missões semanais e mensais para incentivar a visitação contínua a novos pontos turísticos, mantendo o engajamento do usuário.
+- **Validação em Tempo Real**: Sistema que verifica a presença física do usuário no local, garantindo que as recompensas sejam justas e que as experiências sejam autênticas.
+- **Engajamento Contínuo**: Rankings e insígnias que promovem a competição saudável e o senso de conquista entre os usuários, atraindo e retendo tanto turistas quanto jogadores.
+
+
+## <a name="c3.7"></a> 3.7 Matriz de Avaliação de Valor para Aplicativo
+
+
+<div align="center">
+<sub><a name="f2"></a>Figura 03 - Matriz de Avaliação de Valor para Aplicativo </sub><br>
+<img src="../assets/Matriz_de_avaliação_de_valor.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+
+## <a name="c3.8"></a> 3.8  Conclusão
+
+O aplicativo de turismo gamificado propõe a criação de um novo espaço de mercado ao transformar a exploração de pontos turísticos em uma experiência interativa e imersiva. Ao combinar geolocalização e elementos de gamificação, a solução se diferencia de guias tradicionais e outros aplicativos de turismo que oferecem conteúdo passivo. Dessa forma, o aplicativo não compete diretamente com concorrentes do mercado atual, mas, ao contrário, cria um Oceano Azul ao atingir um público novo, como gamers e turistas locais, oferecendo uma forma inovadora de turismo urbano.
+
+
+# <a name="c4"></a> 4. Casos de Uso
+
+## <a name="c4.1"></a> 4.1 Introdução
+
+A seção de Casos de Uso descreve as funcionalidades do software e como os usuários interagem com ele, apresentando todos os cenários de uso possíveis e detalhando cada interação e resultado esperado. Os casos de uso são fundamentais para garantir que as funcionalidades estejam alinhadas com as necessidades dos usuários e que o software atenda aos requisitos definidos.
+
+Os casos de uso foram organizados utilizando o formato de User Stories, que seguem o seguinte padrão:
+
+> **Como** [PERFIL], **DEVO/POSSO** [AÇÃO] **para** [OBJETIVO]
+
+**Descrição dos Elementos:**
+- **PERFIL:** Perfil do usuário que realizará a ação.
+- **DEVO/POSSO:** Define se a ação é obrigatória (DEVO) ou opcional (POSSO).
+- **AÇÃO:** Descrição da ação que será realizada pelo usuário.
+- **OBJETIVO:** Finalidade ou resultado esperado com a ação.
+
+### <a name="c4.2 "></a> 4.2 Casos de Uso Específicos
+
+#### Caso de Uso 1: Explorar Pontos Turísticos
+
+- **Como** residente de São Paulo, **posso** visualizar pontos turísticos próximos **para** encontrar opções interessantes para visita.
+
+#### Caso de Uso 2: Coletar Recompensas
+
+- **Como** visitante frequente de atrações turísticas, **devo** completar desafios ou missões **para** coletar recompensas e aumentar meu ranking.
+
+#### Caso de Uso 3: Navegar pelo Mapa
+
+- **Como** usuário do aplicativo, **posso** navegar pelo mapa interativo **para** localizar e acessar detalhes sobre pontos turísticos específicos.
+
+#### Caso de Uso 4: Personalizar Perfil
+
+- **Como** usuário, **posso** personalizar meu perfil **para** registrar meu histórico de visitas e acompanhar meu progresso em missões.
+
+#### Caso de Uso 5: Consultar Ranking
+
+- **Como** residente que participa das missões, **posso** consultar o ranking de usuários **para** saber minha posição e competir com outros usuários.
+
+### <a name="c4.3"></a> 4.3 Critérios de Aceitação
+
+Os critérios de aceitação para cada caso de uso são os padrões que o software deve atender para que seja considerado funcional e esteja em conformidade com os requisitos:
+
+- **Explorar Pontos Turísticos:** O aplicativo deve exibir uma lista de pontos turísticos com base na localização atual do usuário e fornecer informações detalhadas sobre cada ponto.
+- **Coletar Recompensas:** O sistema deve registrar as missões concluídas e atualizar o ranking e recompensas do usuário em tempo real.
+- **Navegar pelo Mapa:** O mapa deve ser responsivo, permitindo zoom, rotação e visualização detalhada dos pontos turísticos próximos ao usuário.
+- **Personalizar Perfil:** O perfil do usuário deve ser editável e refletir corretamente as informações e preferências salvas.
+- **Consultar Ranking:** O ranking deve ser atualizado periodicamente e mostrar a classificação de todos os usuários participantes das missões.
+
+### <a name="c4.4"></a> 4.4 Conclusão
+
+Os casos de uso descritos nesta seção garantem que todas as funcionalidades principais do software estejam documentadas e que as interações esperadas dos usuários sejam claras e objetivas. Com base nas User Stories e nos critérios de aceitação, é possível validar o desenvolvimento e garantir que as entregas estejam alinhadas com os objetivos do projeto.
+
+
+# <a name="c5"></a> 5. Pesquisa de público 
+
+## <a name="c5.1"></a> 5.1 Introdução
+As personas são representações fictícias de usuários que ajudam a entender melhor o público-alvo do nosso projeto. Elas são construídas com base em dados reais e pesquisas, humanizando os usuários e facilitando decisões centradas no usuário. Criar personas eficazes permite que desenvolvamos soluções que atendam às necessidades reais dos moradores de São Paulo, motivando-os a explorar os pontos turísticos da cidade.
