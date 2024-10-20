@@ -112,3 +112,65 @@ Como, por meio da tecnologia, podemos transformar os moradores de São Paulo em 
 
 ## <a name="c1.3"></a> 1.3 Problema
 Descrever o problema ou a oportunidade de negócio.
+
+
+### <a name="c1.3.1"></a> 1.3.1 1Análise do Problema
+&nbsp;&nbsp;&nbsp;&nbsp;Nesta seção, serão apresentados os problemas identificados e as necessidades do usuário, bem como uma avaliação da situação atual e as possíveis soluções para cada questão. Além disso, serão identificados os obstáculos e limitações do projeto, a fim de assegurar que todas as preocupações sejam abordadas antes do início da implementação. A Análise do Problema é essencial para garantir que a solução do software seja eficaz e atenda às necessidades dos usuários. É importante que seja realizada uma pesquisa exaustiva e que todas as perspectivas sejam consideradas para garantir que a solução seja bem-sucedida.
+
+Nesta seção, analisamos a falta de motivação dos moradores de São Paulo para visitarem as atrações turísticas da própria cidade, identificando suas causas, impactos, e considerando o público-alvo para desenvolver uma solução eficaz e inovadora.
+
+### <a name="c1.3.2"></a> 1.3.2 Entendimento Geral do Problema
+
+**Qual é o problema central que estamos tentando resolver?**  
+O problema central é a falta de motivação dos moradores de São Paulo em visitarem as atrações turísticas da própria cidade. O objetivo é transformar os moradores em "turistas" dentro de São Paulo.
+
+**Quais são os sinais ou sintomas que indicam que esse problema existe?**  
+A maioria das pessoas, mesmo residindo em São Paulo, não visita os pontos turísticos disponíveis na cidade.
+
+**Quem são os principais afetados por esse problema? (Usuários, clientes, empresas, comunidades)**  
+Os principais afetados são os moradores de São Paulo.
+
+**Qual é a magnitude ou o impacto desse problema para os afetados?**  
+O problema afeta a maioria dos moradores da cidade, resultando em baixo engajamento e aproveitamento dos recursos culturais e turísticos locais.
+
+### <a name="c1.3.3"></a> 1.3.3 Causas e Origem do Problema
+
+**Quais são as possíveis causas que originaram esse problema?**  
+- Falta de conhecimento ou interesse nas atrações disponíveis.
+- Percepção de que atrações turísticas são voltadas apenas para visitantes de fora.
+- Dificuldades logísticas, como trânsito e falta de estacionamento.
+- Falta de campanhas ou incentivos que promovam a exploração local.
+
+**Esse problema é recorrente ou isolado?**  
+O problema é recorrente, uma vez que é comum em muitas grandes cidades ao redor do mundo, onde os moradores geralmente não se envolvem com atividades turísticas locais.
+
+**Existem fatores externos (econômicos, sociais, tecnológicos) que influenciam a existência do problema?**  
+Sim, fatores econômicos como custo de ingressos e transporte, fatores sociais como falta de tempo ou preferência por outras atividades, e fatores tecnológicos como a ausência de uma plataforma integrada que promova e incentive a exploração de pontos turísticos.
+
+**Já houve tentativas anteriores de resolver esse problema? Se sim, por que falharam?**  
+Há iniciativas isoladas, como campanhas temporárias de incentivo ao turismo local, mas elas falharam por falta de continuidade e integração com a rotina dos moradores.
+
+### <a name="c1.3.4"></a> 1.3.4 Impacto e Consequências do Problema
+
+**O que acontece se o problema não for resolvido? Quais são as consequências a curto e longo prazo?**  
+- **Curto prazo**: Baixo engajamento com atrações locais, resultando em menos receitas para o setor turístico da cidade.
+- **Longo prazo**: Desvalorização do patrimônio cultural e histórico, além da falta de uma identidade turística sólida entre os moradores.
+
+**Como isso afeta a eficiência, a produtividade ou a qualidade de vida dos envolvidos?**  
+A falta de engajamento diminui o potencial econômico das atrações turísticas e limita as opções culturais e de lazer dos moradores.
+
+**Quais são os custos ou perdas associadas ao problema (financeiros, sociais, ambientais)?**  
+- **Financeiros**: Perda de receitas para o setor turístico local.
+- **Sociais**: Desconexão dos moradores com a cultura e a história da cidade.
+- **Ambientais**: Potencial subutilização e deterioração de espaços turísticos.
+
+## <a name="c1.4"></a> 1.4 Análise do Público-Alvo
+
+**Quem são os principais usuários ou beneficiários de uma possível solução?**  
+Os moradores de São Paulo que poderiam ser incentivados a explorar mais as atrações turísticas locais.
+
+**Quais são suas necessidades e expectativas em relação à solução?**  
+Necessidade de conveniência, acessibilidade e incentivos claros para explorar as atrações da cidade de forma prática e envolvente.
+
+**Como eles atualmente lidam com o problema ou tentam mitigar seus efeitos?**  
+Atualmente, muitos moradores podem ignorar as atrações turísticas, preferindo atividades mais familiares ou convencionais, como shoppings e cinemas.
