@@ -461,3 +461,255 @@ Os casos de uso descritos nesta seção garantem que todas as funcionalidades pr
 
 ## <a name="c5.1"></a> 5.1 Introdução
 As personas são representações fictícias de usuários que ajudam a entender melhor o público-alvo do nosso projeto. Elas são construídas com base em dados reais e pesquisas, humanizando os usuários e facilitando decisões centradas no usuário. Criar personas eficazes permite que desenvolvamos soluções que atendam às necessidades reais dos moradores de São Paulo, motivando-os a explorar os pontos turísticos da cidade.
+
+
+## <a name="c5.2"></a> 5.2 Personas
+
+
+<div align="center">
+<sub><a name="f2"></a>Figura 04 - Persona 1 </sub><br>
+<img src="../assets/persona mariana.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+
+
+<div align="center">
+<sub><a name="f2"></a>Figura 05 - Persona 2 </sub><br>
+<img src="../assets/persona ricardo.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+
+
+<div align="center">
+<sub><a name="f2"></a>Figura 06 - Persona 3 </sub><br>
+<img src="../assets/persona camila.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+
+
+<<<<<<< Updated upstream
+
+# <a name="c6"></a> 6. UX e UI Design
+Aborda o design e a funcionalidade da aplicação ou sistema em questão. Ela fornece informações sobre como o software é projetado para ser fácil de usar e intuitivo para os usuários. Nesta seção, deve ser possível encontrar descrições detalhadas sobre as principais características e recursos da interface do usuário, como botões, menus, ícones e outros elementos que são utilizados para facilitar a interação do usuário com o software. Além disso, são fornecidos exemplos de como as funcionalidades do software são acessadas e usadas pelos usuários, incluindo informações sobre os passos necessários para realizar tarefas específicas. Esta seção também aborda as principais preocupações de UX, como acessibilidade, usabilidade, consistência e simplicidade. São apresentados exemplos de como o software é projetado para atender às necessidades dos usuários com diferentes tipos de habilidades e recursos.
+## <a name="c6.1"></a> 6.1 Wireframes
+=======
+## Wireframes
+
+
+
+>>>>>>> Stashed changes
+
+Wireframes são representações básicas e estruturais de uma interface, com o objetivo de organizar e definir os elementos principais de cada tela de uma aplicação. Eles servem para mapear a hierarquia de informações, os componentes e a disposição de cada elemento, sem se preocupar com aspectos visuais como cores e estilos. No contexto do nosso projeto, os wireframes foram desenhados no papel para ilustrar as três telas principais da aplicação: a **Home (Mapa)**, o **Perfil**, e o **Ranking**. Abaixo, detalhamos cada uma dessas telas com base nos elementos estruturais representados nos wireframes.
+
+### <a name="c6.1.1"></a> 6.1.1 Tela 1: Home (Mapa)
+
+<div align="center">
+<sub><a name="f2"></a>Figura 07 - Wireframe 1 </sub><br>
+<img src="../assets/homepage.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+A tela principal do aplicativo é um mapa interativo onde o usuário pode visualizar seu avatar e os pontos turísticos disponíveis para visita. Esse conceito se assemelha a jogos de realidade aumentada, como Pokémon GO. Além disso, o usuário tem acesso a missões por meio de um pop-up no canto da tela. Ao clicar, uma sobreposição se abre com os detalhes das missões, incentivando a interação e exploração do usuário.
+
+**Componentes principais:**
+- **Mapa interativo:** exibe a localização do usuário e pontos turísticos próximos.
+- **Avatar do usuário:** representado no mapa para mostrar seu movimento em tempo real.
+- **Pop-up de missões:** botão que, ao ser clicado, abre uma sobreposição com as missões disponíveis.
+
+### <a name="c6.1.2"></a> 6.1.2 Tela 2: Perfil
+
+<div align="center">
+<sub><a name="f2"></a>Figura 08 - Wireframe 2 </sub><br>
+<img src="../assets/perfil.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+A tela de perfil é projetada para exibir as informações pessoais do usuário, como foto, nome e as insígnias conquistadas ao longo do uso do aplicativo. O objetivo dessa tela é engajar o usuário ao apresentar seu progresso e conquistas de forma clara e organizada.
+
+**Componentes principais:**
+- **Foto do usuário:** imagem de perfil que pode ser personalizada.
+- **Nome e detalhes pessoais:** informações básicas do usuário.
+- **Insígnias:** coleção visual de conquistas e recompensas acumuladas.
+
+### <a name="c6.1.3 "></a> 6.1.3 Tela 3: Ranking
+
+<div align="center">
+<sub><a name="f2"></a>Figura 09 - Wireframe 3 </sub><br>
+<img src="../assets/ranking.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+Na tela de ranking, o usuário pode visualizar sua classificação em relação a outros participantes, incentivando a competição saudável e o engajamento contínuo. O ranking é global, e os usuários são ordenados conforme suas pontuações, mostrando quem são os líderes e motivando os demais a explorar mais pontos turísticos.
+
+**Componentes principais:**
+- **Lista de usuários e pontuações:** exibe as classificações dos participantes.
+- **Classificação global:** ordena os usuários do maior para o menor, destacando as posições com clareza.
+
+### <a name="c6.2"></a> 6.2 Conclusão
+
+Os wireframes apresentados são fundamentais para definir a estrutura e a hierarquia das telas do aplicativo, permitindo que as funcionalidades e interações sejam testadas e refinadas antes de qualquer desenvolvimento visual. Com esses wireframes, buscamos criar uma experiência clara e intuitiva para incentivar os moradores de São Paulo a explorar a cidade, utilizando um sistema gamificado com recompensas e um mapa interativo para maximizar o engajamento do usuário. Esses esboços no papel são essenciais para garantir que todos os componentes necessários estejam presentes e organizados de forma eficiente antes da implementação final.
+
+
+### Arquitetura BPMN
+
+### Introdução
+
+A **Arquitetura BPMN (Business Process Model and Notation)** é uma metodologia visual que ajuda a descrever o fluxo de processos e interações em um sistema, permitindo uma compreensão clara e precisa de como as ações se interligam. No contexto deste projeto, o BPMN é utilizado para mapear o funcionamento da solução, desde a abertura do aplicativo até as interações do usuário com as diferentes funcionalidades. Esse diagrama tem como objetivo facilitar a visualização dos processos e garantir que todos os elementos do sistema estejam integrados de forma eficiente.
+
+### Template do BPMN
+
+<div align="center">
+<sub><a name="f2"></a>Figura 010 - Arquitetura BPNM </sub><br>
+<img src="../assets/Arquitetura bpnm de alta fidelidade.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+### Conclusão
+
+A arquitetura BPMN detalhada para este projeto permite uma visão clara do fluxo de operações, desde o momento em que o usuário abre o aplicativo até as interações específicas, como visualização de pontos turísticos, aceitação de missões, e consulta do ranking. Com esse diagrama, é possível identificar os pontos de decisão e verificar a fluidez do sistema, garantindo que cada ação realizada pelo usuário tenha um resultado definido e contribua para a experiência geral. Essa estrutura visual também ajuda a identificar potenciais melhorias ou otimizações, facilitando o desenvolvimento e o ajuste do sistema ao longo do tempo.
+
+
+
+
+## <a name="c6.3"></a> 6.3 Design de Interface - Guia de Estilos
+Refere-se ao design visual, cores, tipografia, imagens, logotipos, ou seja, os elementos visuais que compõem o produto.
+Aqu
+i você deve colocar o link para seu documento de guia de estilos
+
+
+# <a name="c7"></a> 7. Projeto de Banco de Dados
+Documento contendo diagrama de entidades e relacionamentos do banco de dados
+## <a name="c7.1"></a> 7.1 Modelo Conceitual
+O modelo conceitual deve garantir uma conexão com a realidade. Os 4 tipos de conexões com a realidade são:
+conceitos
+atributos
+identificações
+associações
+O Modelo Entidade-Relacionamento - MER
+entidades e tipos de entidades
+atributos e tipos de atributos
+relacionamentos e tipos de relacionamentos
+## <a name="c7.2"></a> 7.2 Modelo Lógico 
+O modelo lógico de banco de dados é uma representação abstrata e simplificada dos dados armazenados no sistema. É utilizado para entender como os dados são relacionados e para garantir a integridade e consistência dos dados armazenados. Incluir  uma descrição detalhada das tabelas, campos e relações presentes no modelo lógico de banco de dados. Também serão apresentadas as regras de negócio e as restrições aplicadas aos dados para garantir a integridade e a consistência dos dados armazenado
+
+
+# <a name="c10"></a> 8. # Manual do Usuário -  VerdadeiraSP
+
+## Índice
+
+1. [Introdução](#introdução)
+2. [Requisitos do Sistema](#requisitos-do-sistema)
+3. [Instalação](#instalação)
+4. [Configurando o Aplicativo](#configurando-o-aplicativo)
+5. [Usando o VerdadeiraSP](#usando-o-VerdadeiraSP)
+    - [Tela Inicial](#tela-inicial)
+    - [Mapeando Rotas e Pontos Turísticos](#mapeando-rotas-e-pontos-turísticos)
+    - [Missões e Desafios](#missões-e-desafios)
+    - [Sistema de Recompensas](#sistema-de-recompensas)
+6. [Personalização de Preferências](#personalização-de-preferências)
+7. [Solução de Problemas Comuns](#solução-de-problemas-comuns)
+
+## Introdução
+
+O **VerdadeiraSP** é um aplicativo gamificado desenvolvido para incentivar moradores de São Paulo a explorarem a cidade e seus pontos turísticos de forma interativa e divertida. Este manual tem como objetivo guiar o usuário através do processo de instalação, configuração e utilização das funcionalidades do aplicativo.
+
+## Requisitos do Sistema
+
+Para garantir que o VerdadeiraSP funcione corretamente, verifique se o seu dispositivo atende aos requisitos mínimos abaixo:
+
+- **Sistema Operacional**: Android 8.0 (Oreo) ou superior 
+- **Espaço de Armazenamento**: Mínimo de 150 MB disponíveis
+- **Conexão de Internet**: Necessária para funcionalidades de geolocalização e interação com servidores
+- **Permissões**: Acesso ao GPS, câmera e notificações
+
+## Instalação
+
+1. **Android**: 
+   - Acesse o link de download do apk e baixe o "VerdadeiraSP".
+   - Clique em "Instalar" e aguarde o download e instalação serem concluídos.
+
+## Configurando o Aplicativo
+
+Após a instalação, siga os passos abaixo para configurar o aplicativo:
+
+1. **Crie uma Conta**: 
+   - Ao abrir o aplicativo pela primeira vez, você será solicitado a criar uma conta. Insira seu e-mail, escolha uma senha segura e confirme seu cadastro.
+2. **Configuração Inicial**:
+   - Conceda permissões de acesso ao GPS para que o aplicativo possa localizar e monitorar sua posição.
+   - Ajuste as preferências de notificação e personalize as configurações de privacidade conforme desejado.
+
+## Usando o VerdadeiraSP
+
+### Tela Inicial
+
+Na tela inicial, você encontrará as principais funcionalidades do VerdadeiraSP: 
+
+- **Mapa Interativo**: Mostra sua localização atual e os pontos turísticos próximos que você pode visitar para ganhar recompensas.
+- **Menu de Navegação**: Acesse outras seções como Missões, Ranking e Perfil do Usuário.
+
+
+### Mapeando Rotas e Pontos Turísticos
+
+- Toque no ícone do mapa para visualizar a rota sugerida para os pontos turísticos próximos.
+- Utilize o sistema de navegação para guiar seu percurso até o local desejado.
+
+### Missões e Desafios
+
+- Acesse a aba **Missões** para visualizar os desafios diários, semanais e mensais disponíveis.
+- Complete os desafios para ganhar badges e pontos que serão acumulados no ranking.
+
+
+### Sistema de Recompensas
+
+- Ao visitar pontos turísticos, você acumula badges e pontos que podem ser trocados por prêmios ou usados para subir no ranking.
+- Pontuações mais altas garantem uma posição de destaque no leaderboard.
+
+## Personalização de Preferências
+
+No menu de configurações, você pode:
+
+- **Ajustar Notificações**: Escolher se deseja receber alertas sobre novos desafios ou pontos turísticos próximos.
+- **Configurações de Privacidade**: Controlar quais informações são compartilhadas e com quem.
+
+## Solução de Problemas Comuns
+
+### Problema: O mapa não carrega corretamente.
+
+- **Solução**: Verifique se o GPS está ativado e se você concedeu permissão de localização ao VerdadeiraSP.
+- **Dica**: Reinicie o aplicativo e garanta que sua conexão com a internet esteja estável.
+
+### Problema: Não consigo completar uma missão.
+
+- **Solução**: Verifique se você está no local correto e se todos os requisitos da missão foram atendidos.
+
+### Atualizações
+
+Esse manual será atualizado frequentemente para incluir novas funcionalidades e melhorias do aplicativo. Certifique-se de ter a versão mais recente do VerdadeiraSP instalada para aproveitar todos os recursos disponíveis.
+
+ 
+# <a name="c11"></a> 9. Referências
+
+RICHARDS, Greg. Economia Criativa e Turismo Urbano. São Paulo: Editora Cultura Urbana, 2020.
+
+"Local Tourism and Community Identity". Journal of Urban Studies, v. 42, n. 3, p. 215-230, 2021.
+
+LEFEBVRE, Henri. O Direito à Cidade. São Paulo: Editora Paz e Terra, 2001.
+
+"Urban Identity and Belonging in Global Cities". Journal of Urban Identity, v. 35, n. 1, p. 89-105, 2020.
+
+"São Paulo: Territórios de Conflito e Cultura". YouTube, 2018. Disponível em: 
+
+MARQUES, Eduardo. Desigualdade e Mobilidade Urbana. São Paulo: Editora Perspectiva, 2015.
+
+"The Impact of Social Class on Urban Mobility and Access to Leisure". Urban Sociology Review, v. 29, n. 2, p. 135-150, 2021.
+
+HADDAD, Carlos. Políticas Públicas e Turismo Local. São Paulo: Editora Atlas, 2018.
+
+"Local Government's Role in Promoting Urban Tourism". Journal of Public Administration, v. 48, n. 2, p. 178-195, 2021.
+
+SOUZA, Ana Luiza. Turismo Sustentável em Cidades Grandes. São Paulo: Editora Sustentável, 2017.
+
+"Tourism Crowding in Megacities: Managing Over-Tourism". Journal of Sustainable Tourism, v. 54, n. 4, p. 321-340, 2021.
