@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>299527360675-us2fjaf3cfv8ocqiet7gd2enq02dr9h2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.299527360675-us2fjaf3cfv8ocqiet7gd2enq02dr9h2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD58l0SYDdYnMnVYLGqKBJ6tENWqo964RU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>299527360675</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.company.verdadeirasp</string>
+	<key>PROJECT_ID</key>
+	<string>verdadeira-s-p2-yfetd7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>verdadeira-s-p2-yfetd7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:299527360675:ios:ea833783533ac86c4faf16</string>
+</dict>
+</plist>
