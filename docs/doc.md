@@ -174,3 +174,149 @@ Necessidade de conveniência, acessibilidade e incentivos claros para explorar a
 
 **Como eles atualmente lidam com o problema ou tentam mitigar seus efeitos?**  
 Atualmente, muitos moradores podem ignorar as atrações turísticas, preferindo atividades mais familiares ou convencionais, como shoppings e cinemas.
+
+## <a name="c1.5"></a> 1.5 Contexto e Cenário Atual
+
+**Qual é o contexto atual em que o problema ocorre? (por exemplo, setor específico, tecnologia disponível)**  
+O problema ocorre no contexto urbano de São Paulo, uma cidade com inúmeras atrações culturais, históricas e gastronômicas, mas que sofre com o baixo engajamento dos próprios residentes.
+
+**Existem soluções ou concorrentes no mercado que abordam esse problema? Como eles atuam?**  
+Há soluções pontuais como sites e aplicativos de turismo, mas que muitas vezes são voltados apenas para turistas externos, sem um foco específico nos moradores da cidade.
+
+**Há tendências ou inovações que possam influenciar ou agravar o problema?**  
+A gamificação surge como uma tendência capaz de transformar o engajamento turístico, tornando as visitas a pontos turísticos mais interativas e incentivando a exploração por meio de recompensas e desafios.
+
+
+# <a name="c2"></a> 2. Análise da Indústria
+Análise da indústria (Modelo de 5 Forças de Porter) em relação ao cenário da empresa parceira.
+
+<br>
+
+## <a name="c2.1"></a> 2.1 Matriz SWOT
+
+### <a name="c2.1.1"></a> 2.1.1 O que é uma Matriz SWOT?
+
+&nbsp;&nbsp;&nbsp;&nbsp;A matriz SWOT é uma ferramenta estratégica utilizada para identificar e avaliar os **pontos fortes (Strengths)**, **fraquezas (Weaknesses)**, **oportunidades (Opportunities)** e **ameaças (Threats)** relacionadas a um projeto, organização ou produto. Ela auxilia no entendimento completo do ambiente interno e externo, permitindo a criação de estratégias que maximizem o sucesso e minimizem riscos.
+
+<div align="center">
+<sub><a name="f2"></a>Figura 01 - Análise SWOT</sub><br>
+<img src="../assets/analise_SWOT.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+### Resumo dos Tópicos:
+
+#### **Strengths (Forças)**
+- **Centralização das Informações de Turismo**: Nossa solução oferece uma plataforma que reúne diversas informações turísticas de forma acessível e prática, o que facilita o planejamento de atividades pelos usuários.
+- **Personalização de Experiência do Usuário**: A plataforma possui um visual amigável e gameficado.
+- **Gamificação como Diferencial**: O uso de gamificação proporciona uma experiência lúdica, incentivando o engajamento dos moradores com a cidade de maneira inovadora e divertida.
+
+#### **Weaknesses (Fraquezas)**
+- **Falta de Infraestrutura em Algumas Áreas**: Regiões com baixa conectividade ou infraestrutura inadequada podem dificultar a adoção plena da plataforma.
+- **Dependência do Uso Contínuo dos Usuários**: O sucesso da solução depende de que os usuários mantenham um uso frequente, sendo necessário fornecer constantemente incentivos para que continuem engajados.
+
+#### **Opportunities (Oportunidades)**
+- **Exploração do Turismo Local**: A plataforma pode fomentar o turismo interno, incentivando os próprios moradores a explorar mais sua cidade e assim movimentar o setor.
+- **Expansão para Outros Estados**: Com sucesso da plataforma, a solução pode ser escalada para outras regiões do Brasil, ampliando seu impacto e mercado.
+
+#### **Threats (Ameaças)**
+- **Concorrência de Grandes Aplicativos Existentes**: Plataformas de turismo já consolidadas, como TripAdvisor e Google Travel, representam uma concorrência significativa.
+- **Desinteresse dos Usuários**: Caso os moradores continuem priorizando atividades cotidianas ou não se sintam motivados pelos incentivos, o engajamento com a plataforma pode ser baixo.
+
+### <a name="c2.2"></a> 2.2 Conclusão
+
+&nbsp;&nbsp;&nbsp;&nbsp;A análise SWOT é importante para garantir que todas as variáveis do projeto sejam consideradas, permitindo uma visão ampla sobre o que precisa ser aprimorado e quais oportunidades podem ser exploradas. Ela proporciona uma base sólida para o planejamento estratégico, maximizando o potencial de sucesso ao identificar e mitigar riscos desde o início. Utilizando essa matriz, podemos construir uma solução robusta e bem direcionada para promover o turismo e o engajamento dos moradores de São Paulo.
+
+<br>
+
+## <a name="c2.3"></a> 2.3 Proposta de Valor e Value Proposition Canvas
+
+A *Proposta de Valor* do projeto visa motivar os moradores de São Paulo a explorarem as atrações turísticas locais, transformando a experiência em algo mais atrativo e interativo através da gamificação. Para desenvolver esta proposta de forma eficaz, utilizamos o *Value Proposition Canvas*, que nos ajuda a alinhar a solução com as necessidades e expectativas do público-alvo.
+
+
+<div align="center">
+<sub><a name="f2"></a>Figura 02 - Proposta de Valor</sub><br>
+<img src="../assets/value_preposition_canvas1.png" width="80%"> <br>
+<sup>Fonte: Material produzido pelos autores (2024)</sup>
+</div>
+
+### <a name="c2.3.1"></a> 2.3.1 Explicação do Template
+
+1. *Tarefas do Cliente*: Entendemos que o público-alvo busca maneiras de aproveitar melhor o tempo livre, explorando o que a cidade tem a oferecer sem precisar de muito planejamento. A proposta é automatizar e simplificar essa descoberta.
+
+2. *Dores do Cliente*: Identificamos que a falta de informação, a percepção de alto custo e a pouca motivação são barreiras significativas. Por isso, focamos em aliviá-las com uma interface intuitiva e recompensas que incentivam o engajamento.
+
+3. *Ganhos do Cliente*: Nossa solução visa entregar experiências que vão além do básico, criando uma jornada gamificada em que o usuário sente que está ganhando algo em troca ao participar.
+
+4. *Produtos e Serviços*: A plataforma é desenvolvida com foco em praticidade e engajamento, combinando tecnologia de geolocalização e gamificação para tornar a experiência turística mais acessível e atrativa.
+
+5. *Criadores de Ganhos*: As recompensas, insígnias, e a integração com eventos locais são estratégias para valorizar cada interação, gerando um ciclo positivo de engajamento e exploração.
+
+6. *Aliviadores de Dores*: Descontos, mapas interativos e informações atualizadas ajudam a reduzir as barreiras de entrada e tornam o processo de descoberta mais amigável e acessível para o usuário.
+---
+
+## Proposta de Solução
+&nbsp;&nbsp;&nbsp;&nbsp;O conceito do aplicativo é oferecer uma experiência gamificada semelhante ao Pokémon Go, mas voltada para pontos turísticos. A ideia é que os usuários explorem locais de interesse na cidade, ganhem pontos e insígnias ao visitarem esses pontos, e participem de missões e rankings semanais e mensais. A geolocalização será usada para validar se o usuário está realmente nos pontos turísticos, garantindo que as recompensas sejam liberadas de forma justa. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;Abaixo está uma estrutura organizada da ideia, seguida de um fluxo de telas detalhado para garantir a melhor compreensão e execução do projeto.
+
+## Estrutura e Descrição do Aplicativo
+
+### Mapa Gamificado:
+- Ao abrir o aplicativo, o usuário visualiza um mapa interativo, semelhante ao Pokémon Go, com um personagem representando o usuário.
+- O personagem se move de acordo com a geolocalização do usuário na vida real.
+- No mapa, estarão visíveis os pontos turísticos, representados por ícones relacionados ao tipo de local (exemplo: ícones de museus, parques, monumentos, etc.).
+
+### Missões Semanais e Mensais:
+- Cada semana e mês terá um conjunto de missões que consistem em visitar certos pontos turísticos específicos.
+- As missões serão iguais para todos os usuários, incentivando competição justa.
+- As missões já realizadas serão sinalizadas por um ícone verde de "concluído".
+
+### Sistema de Pontuação:
+- As missões concedem pontos ao usuário por visitar novos lugares, eles podem ser acumulados e utilizados para o ranking.
+- Se o usuário já tiver visitado o local (com a "insígnia de descoberta"), ele ganhará menos pontos ao completá-lo novamente. Isso incentiva a visitação a novos lugares, ao mesmo tempo em que ainda recompensa os usuários que revisitarem locais para completar as missões.
+
+### Insígnias de Descoberta:
+- Cada vez que o usuário visita um novo ponto turístico, ele ganha automaticamente uma "insígnia de descoberta" relacionada ao local.
+- Essa insígnia fica visível no perfil do usuário e demonstra que ele já esteve naquele local.
+- A insígnia é gerada automaticamente através da geolocalização quando o usuário entra em um raio de proximidade do ponto turístico.
+
+### Coleta de Pontos:
+- Ao clicar em um ponto turístico no mapa, um "pop-up" aparecerá com informações sobre o local (história, imagens, curiosidades).
+- Na parte inferior do pop-up, haverá um botão de "Coletar Pontos". Esse botão só estará ativado se o usuário estiver dentro de um raio definido (por exemplo, 20 metros) do local.
+- Se o usuário não estiver próximo o suficiente, ele ainda poderá visualizar o pop-up, mas não poderá coletar os pontos.
+
+### Rankings:
+- *Ranking Semanal*: Similar ao sistema de ranking do Duolingo, será uma competição semanal onde os usuários com mais pontos ganham destaque.
+- *Ranking Permanente*: Um ranking global que nunca é resetado, permitindo que usuários que já visitaram muitos pontos turísticos continuem competindo, mesmo ganhando menos pontos por missões repetidas.
+
+### Navegação por Abas:
+- O aplicativo terá abas de navegação na parte inferior da tela:
+    - *Mapa*: Exibe o mapa interativo com os pontos turísticos e o personagem do usuário.
+    - *Missões*: Exibe as missões semanais e mensais com suas respectivas recompensas e status de conclusão.
+    - *Perfil*: Exibe as insígnias do usuário, seu progresso e informações de ranking.
+- Essas abas garantem fácil navegação entre as funcionalidades principais do aplicativo.
+
+## Fluxo de Telas
+
+1. *Tela Inicial (Splash Screen)*:
+   - Exibe o logotipo do aplicativo e uma breve animação de carregamento enquanto a geolocalização do usuário é verificada.
+
+2. *Tela do Mapa*:
+   - Exibe o mapa da cidade com pontos turísticos representados por ícones personalizados.
+   - O personagem do usuário é mostrado no mapa e se movimenta de acordo com a geolocalização.
+   - Ao clicar em um ponto turístico, abre-se um pop-up com detalhes sobre o local.
+   - *Botão de Coletar Pontos*: Aparece no pop-up, mas só pode ser clicado se o usuário estiver dentro do raio de proximidade do local (ex: 30 metros).
+
+3. *Tela de Missões*:
+   - Exibe as missões semanais e mensais, com a descrição de cada missão e quantos pontos são concedidos ao completá-la.
+   - Missões já concluídas são sinalizadas com ícones de "feito" em verde, enquanto as pendentes continuam disponíveis.
+   - Missões semanais são resetadas toda semana, enquanto as mensais são resetadas ao final de cada mês.
+
+4. *Tela de Perfil*:
+   - Mostra as insígnias de descoberta que o usuário já ganhou ao visitar os pontos turísticos.
+   - Exibe também o ranking semanal e o ranking permanente do usuário, destacando sua colocação e pontuação total.
+
+5. *Tela de Ranking*:
+   - Exibe o ranking semanal e ranking fixo, permitindo que o usuário veja quem são os líderes.
+   - Os usuários podem clicar no perfil dos líderes para ver suas insígnias e progresso no aplicativo.
