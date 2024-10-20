@@ -7,7 +7,7 @@
 </tr>
 </table>
 
-# Nome do Projeto: GoTurismo
+# Nome do Projeto: VerdadeiraSP
 ### Nome do Grupo: G1dev
 . Integrantes do grupo…
 
