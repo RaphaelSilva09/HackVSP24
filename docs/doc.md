@@ -452,6 +452,23 @@ Os critérios de aceitação para cada caso de uso são os padrões que o softwa
 - **Personalizar Perfil:** O perfil do usuário deve ser editável e refletir corretamente as informações e preferências salvas.
 - **Consultar Ranking:** O ranking deve ser atualizado periodicamente e mostrar a classificação de todos os usuários participantes das missões.
 
+### <a name="c4.4"></a> 4.4 Resultados dos Testes de Validação
+
+Os testes foram realizados para verificar se cada funcionalidade atende aos critérios de aceitação estabelecidos. Os resultados de cada caso de uso são apresentados abaixo:
+
+| Caso de Uso              | Total de Testes | Testes Passados | Testes Falhados | Observações                                                                 |
+|-------------------------|----------------|-----------------|----------------|------------------------------------------------------------------------------|
+| Explorar Pontos Turísticos | 5              | 4               | 1              | Um teste falhou devido a um bug que impede a exibição de detalhes de alguns pontos em certas regiões.  |
+| Coletar Recompensas      | 5              | 5               | 0              | Todos os testes passaram com sucesso, e o sistema registrou corretamente as recompensas.               |
+| Navegar pelo Mapa        | 6              | 5               | 1              | Um teste apresentou falha ao carregar o mapa em dispositivos com baixa conexão de internet.           |
+| Personalizar Perfil      | 4              | 4               | 0              | Todos os testes foram concluídos com sucesso, permitindo edições e salvando preferências corretamente. |
+| Consultar Ranking        | 3              | 3               | 0              | O ranking foi atualizado e exibido corretamente em todos os testes realizados.                         |
+
+### <a name="c4.5"></a> 4.5 Conclusão
+
+Os testes indicam que a maioria dos casos de uso do aplicativo está funcional, com a maior parte dos critérios de aceitação sendo atendida. Os problemas identificados foram documentados e serão tratados em atualizações futuras para garantir a estabilidade e funcionalidade completas da aplicação.
+
+
 ### <a name="c4.4"></a> 4.4 Conclusão
 
 Os casos de uso descritos nesta seção garantem que todas as funcionalidades principais do software estejam documentadas e que as interações esperadas dos usuários sejam claras e objetivas. Com base nas User Stories e nos critérios de aceitação, é possível validar o desenvolvimento e garantir que as entregas estejam alinhadas com os objetivos do projeto.
@@ -490,17 +507,10 @@ As personas são representações fictícias de usuários que ajudam a entender 
 
 
 
-<<<<<<< Updated upstream
 
 # <a name="c6"></a> 6. UX e UI Design
 Aborda o design e a funcionalidade da aplicação ou sistema em questão. Ela fornece informações sobre como o software é projetado para ser fácil de usar e intuitivo para os usuários. Nesta seção, deve ser possível encontrar descrições detalhadas sobre as principais características e recursos da interface do usuário, como botões, menus, ícones e outros elementos que são utilizados para facilitar a interação do usuário com o software. Além disso, são fornecidos exemplos de como as funcionalidades do software são acessadas e usadas pelos usuários, incluindo informações sobre os passos necessários para realizar tarefas específicas. Esta seção também aborda as principais preocupações de UX, como acessibilidade, usabilidade, consistência e simplicidade. São apresentados exemplos de como o software é projetado para atender às necessidades dos usuários com diferentes tipos de habilidades e recursos.
 ## <a name="c6.1"></a> 6.1 Wireframes
-=======
-## Wireframes
-
-
-
->>>>>>> Stashed changes
 
 Wireframes são representações básicas e estruturais de uma interface, com o objetivo de organizar e definir os elementos principais de cada tela de uma aplicação. Eles servem para mapear a hierarquia de informações, os componentes e a disposição de cada elemento, sem se preocupar com aspectos visuais como cores e estilos. No contexto do nosso projeto, os wireframes foram desenhados no papel para ilustrar as três telas principais da aplicação: a **Home (Mapa)**, o **Perfil**, e o **Ranking**. Abaixo, detalhamos cada uma dessas telas com base nos elementos estruturais representados nos wireframes.
 
