@@ -89,3 +89,26 @@
 [10. Manual do Usuário](#c10)
 
 [11. Referências](#c11)
+
+# <a name="c1"></a> 1. Visão Geral do Projeto
+	
+## <a name="c1.1"></a> 1.1 Organizador do Hackathon
+O Hackathon Visite São Paulo é promovido pelo Governo do Estado de São Paulo, uma das maiores e mais influentes administrações públicas do Brasil. Com o objetivo de fomentar o turismo e a inovação, o governo atua em diversas áreas, incluindo o desenvolvimento econômico e social, sendo o estado um dos principais polos de negócios, cultura e turismo do país. São Paulo tem uma ampla infraestrutura, além de ser um centro financeiro e industrial de grande relevância na América Latina, posicionando-se estrategicamente para atrair tanto turistas quanto investimentos. O hackathon visa explorar soluções tecnológicas inovadoras que possam impulsionar o turismo no estado, utilizando dados e recursos disponíveis para criar experiências únicas para os visitantes.
+
+## <a name="c1.2"></a> 1.2 Tema
+Como, por meio da tecnologia, podemos transformar os moradores de São Paulo em turistas no próprio destino?
+
+## <a name="c1.3"></a> 1.3 Problema
+Descrever o problema ou a oportunidade de negócio.
+
+
+# <a name="c1"></a> 1. Visão Geral do Projeto
+	
+## <a name="c1.1"></a> 1.1 Organizador do Hackathon
+O Hackathon Visite São Paulo é promovido pelo Governo do Estado de São Paulo, uma das maiores e mais influentes administrações públicas do Brasil. Com o objetivo de fomentar o turismo e a inovação, o governo atua em diversas áreas, incluindo o desenvolvimento econômico e social, sendo o estado um dos principais polos de negócios, cultura e turismo do país. São Paulo tem uma ampla infraestrutura, além de ser um centro financeiro e industrial de grande relevância na América Latina, posicionando-se estrategicamente para atrair tanto turistas quanto investimentos. O hackathon visa explorar soluções tecnológicas inovadoras que possam impulsionar o turismo no estado, utilizando dados e recursos disponíveis para criar experiências únicas para os visitantes.
+
+## <a name="c1.2"></a> 1.2 Tema
+Como, por meio da tecnologia, podemos transformar os moradores de São Paulo em turistas no próprio destino?
+
+## <a name="c1.3"></a> 1.3 Problema
+Descrever o problema ou a oportunidade de negócio.
